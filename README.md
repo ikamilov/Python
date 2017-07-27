@@ -1,2 +1,2 @@
 # Python
-I started learn Python Programming Language. This is the beginner to professional level. Also I have included projects with Python.
+I started to learn a Python Programming Language. This is beginner to professional level. Also I have included projects of Python Language.
